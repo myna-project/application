@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding/exception.py=utf-8
+encoding/rest.py=utf-8
+encoding/restdev.py=utf-8
+encoding/resttest.py=utf-8
+encoding/restwsgi.py=utf-8
+encoding/services.py=utf-8
+encoding/status.py=utf-8
